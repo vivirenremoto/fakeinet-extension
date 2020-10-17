@@ -4,7 +4,7 @@
 
 - domains.json contiene un array con los dominios fraudulentos
 - info.html aviso que aparacerá al visitar una web fraudulenta
-- privacidad.html política de privacidad
+- privacidad.html [política de privacidad](https://vivirenremoto.github.io/fakeinet-extension/privacidad.html)
 - fakeinet-browser-extension extensión de navegador descomprimida
 
 **Vista previa**
