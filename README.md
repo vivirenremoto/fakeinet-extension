@@ -15,8 +15,8 @@
 
 1. Descargar el [ZIP del repositorio](https://github.com/vivirenremoto/fakeinet-extension/archive/main.zip)
 2. Descomprimir ZIP
-1. Abir al menú de opciones al final de la barra de dirección
-2. Ir al menú Más herramientas - extensiones
-3. Pulsar el botón "Cargar descomprimida"
-4- Seleccionar la carpeta "fakeinet-browser-extension"
-5. ¡Listo! Ya deberías poder usar la extensión
+3. Abir al menú de opciones al final de la barra de dirección
+4. Ir al menú Más herramientas - extensiones
+5. Pulsar el botón "Cargar descomprimida"
+6. Seleccionar la carpeta "fakeinet-browser-extension"
+7. ¡Listo! Ya deberías poder usar la extensión
