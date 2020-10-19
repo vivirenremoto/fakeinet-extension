@@ -6,6 +6,7 @@
 - info.html aviso que aparacerá al visitar una web fraudulenta
 - privacidad.html [política de privacidad](https://vivirenremoto.github.io/fakeinet-extension/privacidad.html)
 - fakeinet-browser-extension extensión de navegador descomprimida
+- search_domain.php mini api para buscar si hay un artículo en un blog wordpress
 
 **Vista previa**
 
